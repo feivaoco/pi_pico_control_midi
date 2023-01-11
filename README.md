@@ -8,6 +8,7 @@
     - [Código Arduino IDE](#código-arduino-ide)
     - [Los programas que hacen posible lo MIDI](#los-programas-que-hacen-posible-lo-midi)
 - [Resultados](#resultados)
+- [Descargar proyecto](#descargar-proyecto)
 - [Referencias](#referencias)
 
 # Resumen
@@ -32,6 +33,8 @@ Contro-Surface es una libería que facilita el envío de mensajes por serial y q
 # Resultados
 Realicé un [video](https://www.youtube.com/watch?v=r7j6lUtO4Sw) para demostrar el funcionamiento de la Pi Pico como MIDI, utilicé LMMS porque ese programa tá bien chilo; me gusta mucho que puede usar VSTs de 32 y 64 bits. También gracias al uso de esta librería, podré terminar mi proyecto de comunicación entre Godot Engine y la Pi Pico (así es, mediante MIDI). Y eso sería todo.
 
+# Descargar proyecto
+Archivo: [proyecto.7z](/proyecto.7z)
 
 
 # Referencias
