@@ -1,6 +1,15 @@
 # Pi Pico como controlador MIDI
 ## Finalmente puedo hacer mi propio MIDI con la Pi Pico
 
+- [Resumen](#resumen)
+- [Introducción](#introducción)
+- [Desarrollo](#desarollo)
+    - [Circuito](#circuito)
+    - [Código Arduino IDE](#código-arduino-ide)
+    - [Los programas que hacen posible lo MIDI](#los-programas-que-hacen-posible-lo-midi)
+- [Resultados](#resultados)
+- [Referencias](#referencias)
+
 # Resumen
 Proyecto en el que la Pi Pico manda mensajes MIDI mediante serial, hairless se encarga de convertir esos mensajes en datos MIDI a un puerto MIDI creado en loopmidi y de esta forma utilizar a la Pi Pico como un controlador MIDI.
 
